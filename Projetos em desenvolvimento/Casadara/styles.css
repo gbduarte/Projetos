@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    
+}
+
+h1{
+    font-weight: 100 ;
+    font-size: 100px;
+    margin-bottom: 20px;
+}
+
+.subnomes{
+    font-weight: 100;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+ul{
+    font-weight: 100;
+    font-size: 30px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    position:static;
+   text-align: auto;
+   background-color: aqua;
+
+
+p{
+    text-align: center;
+}
+
+.missao{
+    font-weight: 100 ;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.visao{
+    font-weight: 100 ;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+h3{
+    text-align: center;
+    size-adjust: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+    size-adjust: auto; 
+    margin-bottom: 20px;
+}
